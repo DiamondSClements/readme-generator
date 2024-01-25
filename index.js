@@ -33,7 +33,7 @@ const questions = [{
     name: 'projectLicenses',
     message: 'Does the project have any licenses?',
     choices: [
-        "MIT", "BSD", "Apache", "None"
+        "MIT", "GPL", "Apache", "None"
     ]
   },
   {
