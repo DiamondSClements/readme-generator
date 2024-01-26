@@ -5,8 +5,11 @@ An app using node.js that automically creates README from user's info.
 
 ## Installation
 *I started by copying the starter code that was provided from the UTA bootcamp class repository. 
+
 *From there I installed the inquirer package needed for this assignment and created my repository.
+
 *I created my prompt questions and my call back questions that would store the users input, render licenses, and also generate the README file. 
+
 *This assignment used the language node.js and I was able to gain a better understanding after completing this application. 
 
 ## Usage 
